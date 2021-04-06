@@ -1,2 +1,1 @@
-# stat494
-Advanced Data Science in R
+# STAT494: Advanced Data Science in R
