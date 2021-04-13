@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "Blogs"
       href: blogs.html
+    - icon: fa fa-github
+      href: https://github.com/emmanuelugo
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com
 output: distill::distill_article
