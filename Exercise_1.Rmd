@@ -35,7 +35,7 @@ A Link to my GitHub repository for STAT494 can be found <a href = "https://githu
 ## Exercise 2: Creating a website
 
 Task: Include a link to your website below. <br> 
-A link to my website can be found <a href = "" > here </a>
+A link to my website can be found <a href = "https://haanuel.netlify.app/"> here </a>
  
 ### a. 
 

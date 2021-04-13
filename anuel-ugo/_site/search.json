@@ -1,13 +1,20 @@
 {
   "articles": [
     {
+      "path": "blogs.html",
+      "title": "Blogs",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-13T10:17:36+01:00"
+    },
+    {
       "path": "index.html",
       "title": "About Me",
       "description": "Hi there and welcome to my website\n",
       "author": [],
       "contents": "\r\n\r\nHi there!\r\nI’m Emmanuel Ugochukwu, a final year student of Electrical Electronics Engineering at the Federal University of Technology, Owerri, Nigeria. I learn languages for the fun of it. At the moment, I am an active Spanish speaker and an active German learner. I also love to work with data, create visualizations, models, reports, shiny web applications and recently started writing to improve my storytelling capabilities.\r\nSoon, I will be diving into building APIs and learning web scraping, SQL and a lot more. I am an active learner, I am very positive that i can achieve that. Currently, I started a course STAT494: Advanced Data Science in R by Lisa Lendway. I really love the syllabus and i am looking forward to completing the course. Thanks for visiting.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-13T09:16:41+01:00"
+      "last_modified": "2021-04-13T10:17:41+01:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
