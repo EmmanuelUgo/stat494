@@ -1,0 +1,10 @@
+name: "anuel-ugo"
+title: "haanuel"
+description: |
+  Emmanuel Ugo
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article
